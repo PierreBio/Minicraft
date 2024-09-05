@@ -1,6 +1,6 @@
 # Minicraft
 
-This project is carried out in the context of the Engineering Degree of **CNAM-ENJMIN**. It was madde by Pierre Billaud and Victor Couturieux.
+This project is carried out in the context of the Engineering Degree of **CNAM-ENJMIN**. It was made by Pierre Billaud and Victor Couturieux.
 
 <sub>Made in __C++__</sub>
 
