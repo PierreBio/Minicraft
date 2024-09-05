@@ -1,0 +1,11 @@
+﻿  camera.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\BaseEngine\yocto\src\engine\render\camera.cpp(16,1): fatal  error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  fbo.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\BaseEngine\yocto\src\engine\render\fbo.cpp(244,1): fatal  error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  vbo.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\BaseEngine\yocto\src\engine\render\vbo.cpp(60,1): fatal  error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  utils.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\BaseEngine\yocto\src\engine\utils\utils.cpp(100,1): fatal  error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  main.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\BaseEngine\yocto\minicraft\src\main.cpp(24,1): fatal  error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+  Génération de code en cours...

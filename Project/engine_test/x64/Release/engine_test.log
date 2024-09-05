@@ -1,0 +1,101 @@
+﻿  fbo.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\src\engine\render\text_engine.h(95,23): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+  vbo.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\src\engine\render\text_engine.h(95,23): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\src\engine\gui\slope.h(129,13): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  utils.cpp
+  main.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\src\engine\render\text_engine.h(95,23): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\src\engine\gui\slope.h(129,13): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(97,89): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(97,87): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(97,64): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(97,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(98,72): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(100,96): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(100,92): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(100,68): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(100,63): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(101,72): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(103,96): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(103,91): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(103,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(103,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(104,72): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(108,96): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(108,91): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(108,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(108,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(109,72): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(111,98): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(111,93): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(111,68): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(111,63): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(112,72): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(114,102): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(114,95): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(114,70): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(114,63): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\engine_test\src\engine_test.h(115,72): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+fbo.obj : error LNK2001: symbole externe non résolu __imp___glewBindBuffer
+fbo.obj : error LNK2001: symbole externe non résolu __imp___glewUniform1i
+fbo.obj : error LNK2001: symbole externe non résolu __imp___glewGetUniformLocation
+fbo.obj : error LNK2001: symbole externe non résolu __imp___glewActiveTexture
+fbo.obj : error LNK2001: symbole externe non résolu __imp___glewFramebufferTexture2D
+fbo.obj : error LNK2001: symbole externe non résolu __imp___glewCheckFramebufferStatus
+fbo.obj : error LNK2001: symbole externe non résolu __imp___glewDeleteFramebuffers
+fbo.obj : error LNK2001: symbole externe non résolu __imp___glewGenFramebuffers
+fbo.obj : error LNK2001: symbole externe non résolu png_image_write_to_file
+fbo.obj : error LNK2001: symbole externe non résolu __imp___glewBindFramebuffer
+vbo.obj : error LNK2001: symbole externe non résolu __imp___glewEnableVertexAttribArray
+vbo.obj : error LNK2001: symbole externe non résolu __imp___glewBindVertexArray
+vbo.obj : error LNK2001: symbole externe non résolu __imp___glewVertexAttribPointer
+vbo.obj : error LNK2001: symbole externe non résolu __imp___glewDeleteVertexArrays
+vbo.obj : error LNK2001: symbole externe non résolu __imp___glewBufferData
+vbo.obj : error LNK2001: symbole externe non résolu __imp___glewGenVertexArrays
+vbo.obj : error LNK2001: symbole externe non résolu __imp___glewGenBuffers
+vbo.obj : error LNK2001: symbole externe non résolu __imp___glewDeleteBuffers
+main.obj : error LNK2001: symbole externe non résolu __imp_glutLeaveFullScreen
+main.obj : error LNK2001: symbole externe non résolu __imp_glutFullScreen
+main.obj : error LNK2001: symbole externe non résolu __imp_glutPassiveMotionFunc
+main.obj : error LNK2001: symbole externe non résolu __imp___glewUseProgram
+main.obj : error LNK2001: symbole externe non résolu __imp_glutKeyboardUpFunc
+main.obj : error LNK2001: symbole externe non résolu __imp_glutReshapeFunc
+main.obj : error LNK2001: symbole externe non résolu __imp___glutCreateWindowWithExit
+main.obj : error LNK2001: symbole externe non résolu __imp_glutMouseFunc
+main.obj : error LNK2001: symbole externe non résolu __imp_glutSetOption
+main.obj : error LNK2001: symbole externe non résolu __imp___glewGetShaderiv
+main.obj : error LNK2001: symbole externe non résolu __imp___glewCompileShader
+main.obj : error LNK2001: symbole externe non résolu __imp___glewCreateShader
+main.obj : error LNK2001: symbole externe non résolu __imp___glutInitWithExit
+main.obj : error LNK2001: symbole externe non résolu __imp_glutIgnoreKeyRepeat
+main.obj : error LNK2001: symbole externe non résolu __imp___glewCreateProgram
+main.obj : error LNK2001: symbole externe non résolu __imp___glewGetShaderInfoLog
+main.obj : error LNK2001: symbole externe non résolu __imp___glewUniform2f
+main.obj : error LNK2001: symbole externe non résolu __imp___glewGetProgramiv
+main.obj : error LNK2001: symbole externe non résolu __imp_glutPostRedisplay
+main.obj : error LNK2001: symbole externe non résolu __imp_glewGetErrorString
+main.obj : error LNK2001: symbole externe non résolu __imp_glutKeyboardFunc
+main.obj : error LNK2001: symbole externe non résolu __imp_glutReshapeWindow
+main.obj : error LNK2001: symbole externe non résolu __imp_glutDestroyWindow
+main.obj : error LNK2001: symbole externe non résolu __imp___glewBlendFuncSeparate
+main.obj : error LNK2001: symbole externe non résolu __imp___glewUniform1f
+main.obj : error LNK2001: symbole externe non résolu __imp_glutInitDisplayMode
+main.obj : error LNK2001: symbole externe non résolu __imp___glewAttachShader
+main.obj : error LNK2001: symbole externe non résolu __imp_glutSpecialFunc
+main.obj : error LNK2001: symbole externe non résolu __imp___glewDeleteProgram
+main.obj : error LNK2001: symbole externe non résolu __imp___glewShaderSource
+main.obj : error LNK2001: symbole externe non résolu __imp_glutSpecialUpFunc
+main.obj : error LNK2001: symbole externe non résolu __imp___glewBlendEquationSeparate
+main.obj : error LNK2001: symbole externe non résolu __imp___glewUniformMatrix4fv
+main.obj : error LNK2001: symbole externe non résolu __imp_glutDisplayFunc
+main.obj : error LNK2001: symbole externe non résolu __imp___glewGetProgramInfoLog
+main.obj : error LNK2001: symbole externe non résolu __imp_glutMainLoop
+main.obj : error LNK2001: symbole externe non résolu __imp_glutInitWindowPosition
+main.obj : error LNK2001: symbole externe non résolu __imp_glutMotionFunc
+main.obj : error LNK2001: symbole externe non résolu __imp___glewDeleteShader
+main.obj : error LNK2001: symbole externe non résolu __imp_glutInitWindowSize
+main.obj : error LNK2001: symbole externe non résolu __imp___glewLinkProgram
+main.obj : error LNK2001: symbole externe non résolu __imp_glewInit
+main.obj : error LNK2001: symbole externe non résolu __imp_glutSwapBuffers
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\yocto\x64\Release\engine_test.exe : fatal error LNK1120: 61 externes non résolus

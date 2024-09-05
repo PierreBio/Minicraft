@@ -1,0 +1,11 @@
+﻿  camera.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\BaseEngine\yocto\src\engine\utils\types_3d.h(682,13): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  fbo.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\BaseEngine\yocto\src\engine\utils\types_3d.h(682,13): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  vbo.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\BaseEngine\yocto\src\engine\utils\types_3d.h(682,13): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  utils.cpp
+  main.cpp
+C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\BaseEngine\yocto\src\engine\utils\types_3d.h(682,13): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  Génération de code en cours...
+  minicraft.vcxproj -> C:\Projets\MinecraftEngineOpenGL-master\MinecraftEngineOpenGL-master\BaseEngine\yocto\Debug\minicraft.exe
