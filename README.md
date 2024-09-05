@@ -2,7 +2,9 @@
 
 This project is carried out in the context of the Engineering Degree of **CNAM-ENJMIN**. It was made by Pierre Billaud and Victor Couturieux.
 
-<sub>Made in __C++__</sub>
+<sub>Made in __C++ and glsl__</sub>
+
+![logo](https://github.com/user-attachments/assets/c76122fc-db2a-4a77-b736-c75af518b896)
 
 ## Project
 
